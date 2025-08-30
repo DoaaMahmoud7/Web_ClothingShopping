@@ -1,0 +1,81 @@
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        form {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        input[type="text"],
+        select,
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: larger;
+        }
+
+
+
+        .back a {
+            text-decoration: none;
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 30px;
+            margin: 73px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: larger;
+            text-align: center;
+            position: absolute;
+            top: 193px;
+            right: 15px;
+        }
+
+        input[type="submit"],
+        a:hover {
+            background-color: #45a049;
+        }
+
+        .submit input[type="submit"] {
+            background-color: #4CAF50;
+
+        }
+
+        .product-attributes img {
+            max-width: 200px;
+            max-height: 200px;
+            margin: 5px;
+        }
+
+        form textarea {
+
+            padding: 10px;
+            margin: 5px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font: 1em sans-serif;
+            box-sizing: border-box;
+            width: 100%;
+        }

@@ -1,4 +1,4 @@
-# 👗 Clothing Shopping Store
+# 👗 Clothing Shopping Store (By Teamwork)
 
 A modern **online clothing shopping platform** built with **HTML, CSS, JavaScript, and PHP**.  
 Users can browse products, manage their cart, and complete orders seamlessly, while the admin can manage the product catalog efficiently.
